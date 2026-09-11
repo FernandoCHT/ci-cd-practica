@@ -1,5 +1,5 @@
 def sumar(a, b):
-    return a + b + 1  # bug intencional para ver fallar el CI
+    return a + b
 
 
 def restar(a, b):
